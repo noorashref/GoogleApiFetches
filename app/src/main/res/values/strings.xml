@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GoogleBooks</string>
+    <string name="search_book_by_title">Search Book by title</string>
+    <string name="book_title">Title: %1$s</string>
+    <string name="book_authors">Authors: %1$s</string>
+    <string name="btn_book_search">Search</string>
+    <string-array name="book_type">
+        <item>all</item>
+        <item>books</item>
+        <item>magazines</item>
+    </string-array>
+</resources>
